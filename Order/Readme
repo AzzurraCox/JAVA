@@ -1,0 +1,10 @@
+
+For windows(cmd):
+
+javac -cp json-20180813.jar -d bin src/OrderSortting.java
+java -cp json-20180813.jar;bin OrderSortting < case/Orders.json
+
+>java OrderSortting -a json Orders.json SortedOrders.csv
+
+>java OrderSortting -d csv Orders.csv SortedOrders.csv
+ 

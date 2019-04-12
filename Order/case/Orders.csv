@@ -1,0 +1,4 @@
+shippingID,shippingType,shipperName,shipperAddress,shipperPhoneNumber,RecipientName,RecipientAddress,RecipientPhoneNumber
+18,Parcel,Vivien,"No.168, University Rd, Minhsuing, Chiayi, Taiwan",910123456,John,"No.122, Chunching S. Rd, Chungcheng district, Taipei, Taiwan",910654321
+12,Letter,Vivien,"No.168, University Rd, Minhsuing, Chiayi, Taiwan",910123456,John,"No.122, Chunching S. Rd, Chungcheng district, Taipei, Taiwan",910654321
+20,Letter,John,"No.122, Chunching S. Rd, Chungcheng district, Taipei, Taiwan",910654321,Vivien,"No.168, University Rd, Minhsuing, Chiayi, Taiwan",910123456
